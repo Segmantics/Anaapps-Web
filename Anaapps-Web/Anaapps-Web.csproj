@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Html3.html" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\AnaappsWeb.pubxml" />
     <None Include="Web.Debug.config">
